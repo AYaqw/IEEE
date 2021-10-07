@@ -76,15 +76,12 @@
                                 <li><i class="fas fa-university text-secondary"></i> college-name is :<?php echo $message_data['college-name'];?></li>
                                
                               </ul>
-
-
                     </div>
                 </div>
             </div>
 
             </div>
           </div>
-          <!--  -->
         </div>
     </div>
     
